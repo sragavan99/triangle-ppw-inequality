@@ -5,8 +5,8 @@ Mathematica code for computations used in our paper proving the PPW inequality f
 
 This is the code we used to compute the integrals necessary for our variational upper bounds on lambda_2 in section 3.
 
-* Section3.wl defines all the eigenfunctions, linear transformations, test functions, and integrands that we need.
-* Section3.nb checks that our eigenfunctions and linear transformations are correct.
+* Section3.wl defines all the eigenfunctions, affine transformations, test functions, and integrands that we need.
+* Section3.nb checks that our eigenfunctions and affine transformations are correct.
 * A30.nb, A45.nb etc. are notebooks for computing each of the integrals in equations (3.2) and (3.4) of the paper.
 
 ## Section 4
